@@ -1,0 +1,8 @@
+{
+  "name": "PulseNote",
+  "description": "AI-powered fragmented information capture, summarization, and intelligent reminder system.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
